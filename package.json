@@ -60,7 +60,7 @@
     "install": "^0.13.0",
     "jshint": "^2.11.1",
     "jshint-loader": "^0.8.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "leaflet": "^1.6.0",
     "leaflet.markercluster": "^1.4.1",
     "mongodb": "^3.5.8",
